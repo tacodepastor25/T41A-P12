@@ -1,0 +1,1 @@
+-- FULL OUTER JOIN: todos los clientes y pedido
