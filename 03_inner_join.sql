@@ -1,0 +1,4 @@
+
+-- INNER JOIN: solo coincidencias
+
+
