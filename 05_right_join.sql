@@ -1,0 +1,1 @@
+-- RIGHT JOIN: todos los pedidos, aunque no tengan cliente
