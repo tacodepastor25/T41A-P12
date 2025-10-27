@@ -5,7 +5,7 @@ from pathlib import Path
 DB_CONFIG = {
     "dbname": "test_db",
     "user": "postgres",
-    "password": "password",
+    "password": "postgres",
     "host": "localhost",
     "port": 5432
 }
