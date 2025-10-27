@@ -1,0 +1,1 @@
+-- LEFT JOIN: todos los clientes, aunque no tengan pedidos
