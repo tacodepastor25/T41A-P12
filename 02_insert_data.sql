@@ -1,5 +1,5 @@
 
 -- Cargar datos desde CSV
-\copy customers FROM '/data/customers.csv' DELIMITER ',' CSV HEADER;
-\copy orders FROM '/data/orders.csv' DELIMITER ',' CSV HEADER;
+\copy customers FROM 'customers.csv' DELIMITER ',' CSV HEADER;
+\copy orders FROM 'orders.csv' DELIMITER ',' CSV HEADER;
 
